@@ -15,3 +15,8 @@
 - 모범 이력서 개인별 사례 조사
 - 브라우저의 동작 과정 및 CSR / SSR (Front-end)
 - 운영체제 (Back-end)
+
+
+[🔎 스터디 준비](https://github.com/jinbokk/tech-interview-study/blob/main/STUDY_01_230614.md)
+
+[✒️ 회고록]()
