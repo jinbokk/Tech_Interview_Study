@@ -19,4 +19,4 @@
 
 [🔎 스터디 준비](https://github.com/jinbokk/tech-interview-study/blob/main/STUDY_01_230614.md)
 
-[✒️ 회고록 (업데이트 예정)]()
+[✒️ 회고록](https://github.com/jinbokk/tech-interview-study/blob/main/STUDY_01_230614_Review.md)
