@@ -36,5 +36,5 @@
 
 [🔎 스터디 준비](https://github.com/jinbokk/tech-interview-study/blob/main/STUDY_03_230629.md)
 
-[✒️ 회고록(작성 예정)]()
+[✒️ 회고록](https://github.com/jinbokk/tech-interview-study/blob/main/STUDY_03_230629_Review.md)
 
