@@ -33,6 +33,6 @@ Callback Que에 있던 콜백 함수를 Javascript의 Stack으로 이동시키�
 ```
 
 
-[참고 강의](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+[(참고 강좌) What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 
-[과정 비주얼화 웹 앱](http://latentflip.com/loupe)   
+[(과정 비주얼화 웹 앱) latentflip.com/loupe](http://latentflip.com/loupe)   
