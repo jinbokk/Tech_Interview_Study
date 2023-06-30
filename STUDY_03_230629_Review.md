@@ -32,11 +32,6 @@ Callback Que에 있던 콜백 함수를 Javascript의 Stack으로 이동시키�
 마지막으로 Javascript는 본인의 Stack에 있던 콜백 함수까지 실행하며 모든 작업이 끝나게 되는 것이다.
 ```
 
-```
-추가적으로, 만일 timeout이 1초로 동일한 비동기 함수가 3개가 실행된다면 어떻게 될까?
-이러한 경우에는 
-```
-
 
 [(참고 강좌) What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 
