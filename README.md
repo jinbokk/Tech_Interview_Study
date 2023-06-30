@@ -13,8 +13,8 @@
 ## 🔎 2023_06_15 (목)
 - 상호간 이력서 검토
 - 모범 이력서 개인별 사례 조사
-- 이진복 : 브라우저의 동작 과정 및 CSR / SSR (Front-end)
-- 지준혁 : 운영체제 (Back-end)
+- 이진복 : 브라우저의 동작 과정 및 CSR / SSR
+- 지준혁 : 운영체제
 
 
 [🔎 스터디 준비](https://github.com/jinbokk/tech-interview-study/blob/main/STUDY_01_230615.md)
@@ -23,9 +23,18 @@
 
 
 ## 🔎 2023_06_22 (목)
-- 이진복 : 쿠키와 세션 / REST(ful) API (Front-end)
-- 지준혁 : 운영체제+ (Back-end)
+- 이진복 : 쿠키와 세션 / REST(ful) API
+- 지준혁 : 운영체제+
 
 [🔎 스터디 준비](https://github.com/jinbokk/tech-interview-study/blob/main/STUDY_02_230622.md)
 
 [✒️ 회고록(작성 예정)]()
+
+## 🔎 2023_06_29 (목)
+- 이진복 : Javascript (Async) + React
+- 지준혁 : 메모리 가상화
+
+[🔎 스터디 준비](https://github.com/jinbokk/tech-interview-study/blob/main/STUDY_03_230629.md)
+
+[✒️ 회고록(작성 예정)]()
+
