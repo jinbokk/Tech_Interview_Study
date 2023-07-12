@@ -28,7 +28,6 @@
 
 [🔎 스터디 준비](https://github.com/jinbokk/tech-interview-study/blob/main/STUDY_02_230622.md)
 
-[✒️ 회고록(작성 예정)]()
 
 ## 🔎 2023_06_29 (목)
 - 이진복 : Javascript (Async) + React
@@ -37,4 +36,25 @@
 [🔎 스터디 준비](https://github.com/jinbokk/tech-interview-study/blob/main/STUDY_03_230629.md)
 
 [✒️ 회고록](https://github.com/jinbokk/tech-interview-study/blob/main/STUDY_03_230629_Review.md)
+
+## 🔎 2023_07_06 (목)
+- 이진복 : Javascript (Async) + React
+- 지준혁 : 메모리 가상화(2/2)
+
+[🔎 스터디 준비]()
+
+[✒️ 회고록]()
+
+## 🔎 2023_07_13 (목)
+- 이진복 : 네트워크 (OSI 7계층 모델과 TCP/IP 스위트 그리고 보안)
+- 지준혁 : 
+
+[🔎 스터디 준비](https://github.com/jinbokk/tech-interview-study/blob/main/STUDY_05_230713.md)
+
+[✒️ 회고록]()
+
+
+
+
+
 
