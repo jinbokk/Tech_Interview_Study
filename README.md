@@ -38,10 +38,10 @@
 [✒️ 회고록](https://github.com/jinbokk/tech-interview-study/blob/main/STUDY_03_230629_Review.md)
 
 ## 🔎 2023_07_06 (목)
-- 이진복 : Javascript (Async) + React
-- 지준혁 : 메모리 가상화(2/2)
+- 이진복 : React와 Vue의 차이, 소프트웨어 아키텍쳐와 디자인패턴
+- 지준혁 : 
 
-[🔎 스터디 준비]()
+[🔎 스터디 준비](https://github.com/jinbokk/tech-interview-study/blob/main/STUDY_04_230706.md)
 
 [✒️ 회고록]()
 
