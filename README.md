@@ -45,7 +45,7 @@
 
 ## 🔎 2023_07_13 (목)
 - 이진복 : 네트워크 (OSI 7계층 모델과 TCP/IP 스위트 그리고 보안)
-- 지준혁 : 
+- 지준혁 : 도커 프리뷰
 
 [🔎 스터디 준비](https://github.com/jinbokk/tech-interview-study/blob/main/STUDY_05_230713.md)
 
